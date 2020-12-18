@@ -1,0 +1,12 @@
+{
+  "default": "Türkçe mesaj",
+  "languages": {
+    "tr": "Türkçe",
+    "en": "İngilizce"
+  },
+  "phrases": {
+    "features": "Geliştirmeler",
+    "apiExample": "API Kaynağı",
+    "getShowcases": "Kurumsal"
+  }
+}
