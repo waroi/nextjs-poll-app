@@ -6,5 +6,5 @@ Boilerplate based on React Next Boilerplate : https://github.com/react-next-boil
 
 ## Setup
 
-1. Run `npm install` to install dependencies .
-2. Run `npm run dev` to see the example app at `http://localhost:3000`.
+1. Run `yarn install` to install dependencies .
+2. Run `yarn dev` to see the example app at `http://localhost:3000`.
